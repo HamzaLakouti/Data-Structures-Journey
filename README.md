@@ -1,8 +1,8 @@
 # Data-Structures-Journey 🚀
 
-Welcome to Data Structures Journey! 🚀
+Welcome to Data Structures Journey!
 
-In this repository, I'm documenting my self-taught learning experience of various data structures. From fundamental concepts to advanced implementations, this repository serves as a roadmap for learning data structures comprehensive collection of my code (in JAVA) and notes as I explore the world of data structures.
+In this repository, I'm documenting my self-taught learning experience of various data structures. From fundamental concepts to advanced implementations, this repository serves as a roadmap for learning data structures as well as a comprehensive collection of my code (in JAVA) and notes as I explore data structures.
 
 
 ## Why this repository?

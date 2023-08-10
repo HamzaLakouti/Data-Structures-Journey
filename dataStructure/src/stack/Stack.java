@@ -51,6 +51,11 @@ public class Stack {
 		}
 	}
 	
+	// Returning size of the stack
+	int getSize() {
+		return top+1;
+	}
+	
 	// Printing the stack
 	void show() {
 		if(top < 0) {
@@ -70,10 +75,10 @@ public class Stack {
 		s.push(1);
 		s.push(2);
 		s.push(3);
-		
 		s.pop();
 		s.show();
 		System.out.println(s.peek());
+		System.out.println("Size of the stack is:" + s.getSize());
 		
 	}
 }
